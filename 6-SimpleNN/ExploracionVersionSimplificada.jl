@@ -1,3 +1,37 @@
+"""
+
+This script performs the following tasks:
+
+1. **Imports necessary libraries**:
+    - Flux: For building and training neural networks.
+    - DataFrames, CSV: For handling data frames and CSV files.
+    - SciMLSensitivity, ComponentArrays, Optimization, OptimizationOptimJL, OptimizationFlux: For sensitivity analysis and optimization.
+    - IterTools, Random, StatsBase: For various utility functions.
+
+2. **Includes external Julia files**:
+    - Parameters.jl: Contains parameter definitions.
+    - UtilidadesSeñales.jl: Contains utility functions for signal processing.
+
+3. **Sets up the environment**:
+    - Sets a random seed for reproducibility.
+    - Defines the path to the CSV file containing signal data.
+    - Defines ranges for correlation sizes (lcms) and standard deviations (sigmas).
+    - Creates a DataFrame of parameters from the Cartesian product of lcms and sigmas.
+
+4. **Defines functions**:
+    - `SplitDataSets`: Splits the dataset into training, validation, and test sets.
+    - `create_model`: Creates a neural network model with specified layers, activation function, and dropout rate.
+    - `main`: The main function that orchestrates the entire process:
+        - Defines various configurations for the neural network.
+        - Splits the dataset.
+        - Prepares the training, validation, and test signals.
+        - Creates the neural network model.
+        - Defines the loss function and optimizer.
+        - Trains the model and saves the results.
+
+5. **Main execution**:
+    - Calls the `main` function to execute the entire process.
+"""
 using Flux
 using Flux: train!
 using DataFrames
