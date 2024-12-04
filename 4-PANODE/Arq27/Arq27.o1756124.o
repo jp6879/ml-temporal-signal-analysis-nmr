@@ -1,0 +1,792 @@
+No se encontraron los parámetros de la red neuronal
+Iniciales
+Loss MSE NeuralODE en el set de entrenamiento: 0.7419124
+Loss MSE NeuralODE en el set de validación: 0.7396934
+Loss MSE NeuralODE en el set de test: 0.7477028
+Loss RMSE NeuralODE en el set de entrenamiento: 0.8613434
+Loss RMSE NeuralODE en el set de validación: 0.8600543
+Loss RMSE NeuralODE en el set de test: 0.8646981
+Epoch = 1 || Loss: 0.63404906 || Loss val: 0.63148224
+Epoch = 2 || Loss: 0.57145154 || Loss val: 0.5683951
+Epoch = 3 || Loss: 0.5154695 || Loss val: 0.5118878
+Epoch = 4 || Loss: 0.4677387 || Loss val: 0.46411517
+Epoch = 5 || Loss: 0.42721483 || Loss val: 0.42377484
+Epoch = 6 || Loss: 0.38386786 || Loss val: 0.38068077
+Epoch = 7 || Loss: 0.33541042 || Loss val: 0.33248523
+Epoch = 8 || Loss: 0.2818196 || Loss val: 0.27920458
+Epoch = 9 || Loss: 0.22659087 || Loss val: 0.22428909
+Epoch = 10 || Loss: 0.17517154 || Loss val: 0.17312853
+Epoch = 11 || Loss: 0.1319398 || Loss val: 0.13009904
+Epoch = 12 || Loss: 0.09920608 || Loss val: 0.09753061
+Epoch = 13 || Loss: 0.07668332 || Loss val: 0.07512967
+Epoch = 14 || Loss: 0.06238757 || Loss val: 0.06092205
+Epoch = 15 || Loss: 0.05389886 || Loss val: 0.052511103
+Epoch = 16 || Loss: 0.04856815 || Loss val: 0.047260903
+Epoch = 17 || Loss: 0.04437932 || Loss val: 0.043157198
+Epoch = 18 || Loss: 0.040536378 || Loss val: 0.039396048
+Epoch = 19 || Loss: 0.036935613 || Loss val: 0.035868216
+Epoch = 20 || Loss: 0.033721775 || Loss val: 0.032718796
+Epoch = 21 || Loss: 0.030923173 || Loss val: 0.029980697
+Epoch = 22 || Loss: 0.028459305 || Loss val: 0.02757271
+Epoch = 23 || Loss: 0.026252735 || Loss val: 0.025416877
+Epoch = 24 || Loss: 0.024256052 || Loss val: 0.023464574
+Epoch = 25 || Loss: 0.022434631 || Loss val: 0.021682385
+Epoch = 26 || Loss: 0.020768063 || Loss val: 0.020050189
+Epoch = 27 || Loss: 0.019248996 || Loss val: 0.018563
+Epoch = 28 || Loss: 0.017865764 || Loss val: 0.01720943
+Epoch = 29 || Loss: 0.016605185 || Loss val: 0.015978165
+Epoch = 30 || Loss: 0.015458899 || Loss val: 0.014859729
+Epoch = 31 || Loss: 0.014419628 || Loss val: 0.0138465995
+Epoch = 32 || Loss: 0.013479005 || Loss val: 0.012930738
+Epoch = 33 || Loss: 0.012628712 || Loss val: 0.012102614
+Epoch = 34 || Loss: 0.011858865 || Loss val: 0.011353297
+Epoch = 35 || Loss: 0.011160719 || Loss val: 0.010674463
+Epoch = 36 || Loss: 0.010528078 || Loss val: 0.010059197
+Epoch = 37 || Loss: 0.009954985 || Loss val: 0.009502095
+Epoch = 38 || Loss: 0.009435416 || Loss val: 0.008997272
+Epoch = 39 || Loss: 0.008963815 || Loss val: 0.008539243
+Epoch = 40 || Loss: 0.008534845 || Loss val: 0.00812302
+Epoch = 41 || Loss: 0.008143801 || Loss val: 0.007744114
+Epoch = 42 || Loss: 0.0077870903 || Loss val: 0.0073987856
+Epoch = 43 || Loss: 0.007461054 || Loss val: 0.007083572
+Epoch = 44 || Loss: 0.007162754 || Loss val: 0.006795063
+Epoch = 45 || Loss: 0.0068896734 || Loss val: 0.006531368
+Epoch = 46 || Loss: 0.0066397446 || Loss val: 0.006290474
+Epoch = 47 || Loss: 0.0064107575 || Loss val: 0.006069829
+Epoch = 48 || Loss: 0.006200633 || Loss val: 0.005867628
+Epoch = 49 || Loss: 0.0060072495 || Loss val: 0.0056820023
+Epoch = 50 || Loss: 0.0058291377 || Loss val: 0.005511141
+Epoch = 51 || Loss: 0.0056651575 || Loss val: 0.00535389
+Epoch = 52 || Loss: 0.0055136792 || Loss val: 0.005209364
+Epoch = 53 || Loss: 0.0053753615 || Loss val: 0.005077127
+Epoch = 54 || Loss: 0.0052496833 || Loss val: 0.0049574333
+Epoch = 55 || Loss: 0.005134981 || Loss val: 0.0048482143
+Epoch = 56 || Loss: 0.005027828 || Loss val: 0.0047465977
+Epoch = 57 || Loss: 0.004926165 || Loss val: 0.0046504713
+Epoch = 58 || Loss: 0.004829725 || Loss val: 0.004559537
+Epoch = 59 || Loss: 0.0047381516 || Loss val: 0.0044730795
+Epoch = 60 || Loss: 0.0046520373 || Loss val: 0.004392407
+Epoch = 61 || Loss: 0.0045710886 || Loss val: 0.0043169498
+Epoch = 62 || Loss: 0.004495324 || Loss val: 0.004245655
+Epoch = 63 || Loss: 0.0044250684 || Loss val: 0.004179833
+Epoch = 64 || Loss: 0.0043600374 || Loss val: 0.0041194973
+Epoch = 65 || Loss: 0.004299848 || Loss val: 0.0040635252
+Epoch = 66 || Loss: 0.004243781 || Loss val: 0.0040116236
+Epoch = 67 || Loss: 0.004191564 || Loss val: 0.0039632656
+Epoch = 68 || Loss: 0.004143019 || Loss val: 0.0039185626
+Epoch = 69 || Loss: 0.0040978626 || Loss val: 0.003877163
+Epoch = 70 || Loss: 0.0040558106 || Loss val: 0.0038385745
+Epoch = 71 || Loss: 0.004016373 || Loss val: 0.0038026462
+Epoch = 72 || Loss: 0.0039793993 || Loss val: 0.003769161
+Epoch = 73 || Loss: 0.003944754 || Loss val: 0.0037377176
+Epoch = 74 || Loss: 0.003912097 || Loss val: 0.0037082687
+Epoch = 75 || Loss: 0.0038811516 || Loss val: 0.003680346
+Epoch = 76 || Loss: 0.0038519392 || Loss val: 0.003654115
+Epoch = 77 || Loss: 0.0038242443 || Loss val: 0.0036293464
+Epoch = 78 || Loss: 0.0037979586 || Loss val: 0.0036057893
+Epoch = 79 || Loss: 0.0037729777 || Loss val: 0.0035836368
+Epoch = 80 || Loss: 0.0037492928 || Loss val: 0.003562673
+Epoch = 81 || Loss: 0.0037265932 || Loss val: 0.0035424493
+Epoch = 82 || Loss: 0.0037047649 || Loss val: 0.0035231337
+Epoch = 83 || Loss: 0.0036837102 || Loss val: 0.0035046372
+Epoch = 84 || Loss: 0.0036633748 || Loss val: 0.0034866151
+Epoch = 85 || Loss: 0.0036437355 || Loss val: 0.0034696022
+Epoch = 86 || Loss: 0.0036249384 || Loss val: 0.0034530854
+Epoch = 87 || Loss: 0.0036066137 || Loss val: 0.0034370883
+Epoch = 88 || Loss: 0.0035889302 || Loss val: 0.0034215539
+Epoch = 89 || Loss: 0.0035718079 || Loss val: 0.0034068062
+Epoch = 90 || Loss: 0.0035549565 || Loss val: 0.0033920885
+Epoch = 91 || Loss: 0.0035384253 || Loss val: 0.0033775466
+Epoch = 92 || Loss: 0.003522246 || Loss val: 0.003363424
+Epoch = 93 || Loss: 0.0035064665 || Loss val: 0.0033495787
+Epoch = 94 || Loss: 0.0034906387 || Loss val: 0.003335999
+Epoch = 95 || Loss: 0.0034751238 || Loss val: 0.00332245
+Epoch = 96 || Loss: 0.0034595358 || Loss val: 0.003308939
+Epoch = 97 || Loss: 0.0034443338 || Loss val: 0.003295797
+Epoch = 98 || Loss: 0.0034293104 || Loss val: 0.0032826588
+Epoch = 99 || Loss: 0.0034142635 || Loss val: 0.003269648
+Epoch = 100 || Loss: 0.0033992496 || Loss val: 0.0032563582
+Epoch = 101 || Loss: 0.003378097 || Loss val: 0.0032379844
+Epoch = 102 || Loss: 0.0033699267 || Loss val: 0.003229896
+Epoch = 103 || Loss: 0.003356481 || Loss val: 0.0032192937
+Epoch = 104 || Loss: 0.003343267 || Loss val: 0.0032057096
+Epoch = 105 || Loss: 0.003330373 || Loss val: 0.0031965591
+Epoch = 106 || Loss: 0.0033168588 || Loss val: 0.0031824557
+Epoch = 107 || Loss: 0.0033035984 || Loss val: 0.0031721927
+Epoch = 108 || Loss: 0.0032902334 || Loss val: 0.0031590706
+Epoch = 109 || Loss: 0.0032774091 || Loss val: 0.0031480475
+Epoch = 110 || Loss: 0.0032648314 || Loss val: 0.003136793
+Epoch = 111 || Loss: 0.003252344 || Loss val: 0.003125258
+Epoch = 112 || Loss: 0.0032401865 || Loss val: 0.0031147904
+Epoch = 113 || Loss: 0.0032278956 || Loss val: 0.0031033063
+Epoch = 114 || Loss: 0.00321576 || Loss val: 0.0030926084
+Epoch = 115 || Loss: 0.0032036523 || Loss val: 0.00308163
+Epoch = 116 || Loss: 0.0031915184 || Loss val: 0.003070902
+Epoch = 117 || Loss: 0.003179578 || Loss val: 0.003060275
+Epoch = 118 || Loss: 0.0031677573 || Loss val: 0.003049664
+Epoch = 119 || Loss: 0.0031561393 || Loss val: 0.0030396432
+Epoch = 120 || Loss: 0.003144649 || Loss val: 0.0030293465
+Epoch = 121 || Loss: 0.0031332702 || Loss val: 0.0030195876
+Epoch = 122 || Loss: 0.0031221432 || Loss val: 0.0030096453
+Epoch = 123 || Loss: 0.003110903 || Loss val: 0.0029999835
+Epoch = 124 || Loss: 0.0030998124 || Loss val: 0.0029902824
+Epoch = 125 || Loss: 0.0030882538 || Loss val: 0.0029801638
+Epoch = 126 || Loss: 0.003076399 || Loss val: 0.0029695372
+Epoch = 127 || Loss: 0.003064598 || Loss val: 0.0029591497
+Epoch = 128 || Loss: 0.0030527315 || Loss val: 0.0029485577
+Epoch = 129 || Loss: 0.0030400006 || Loss val: 0.0029369548
+Epoch = 130 || Loss: 0.0030269844 || Loss val: 0.002925283
+Epoch = 131 || Loss: 0.0030141785 || Loss val: 0.0029134243
+Epoch = 132 || Loss: 0.0030018846 || Loss val: 0.002902496
+Epoch = 133 || Loss: 0.0029895194 || Loss val: 0.002890582
+Epoch = 134 || Loss: 0.002977911 || Loss val: 0.0028806378
+Epoch = 135 || Loss: 0.0029659907 || Loss val: 0.0028685448
+Epoch = 136 || Loss: 0.002954763 || Loss val: 0.0028594353
+Epoch = 137 || Loss: 0.0029436848 || Loss val: 0.0028481183
+Epoch = 138 || Loss: 0.0029326514 || Loss val: 0.0028393678
+Epoch = 139 || Loss: 0.0029232423 || Loss val: 0.0028303857
+Epoch = 140 || Loss: 0.0029126438 || Loss val: 0.002821842
+Epoch = 141 || Loss: 0.0029025173 || Loss val: 0.0028127907
+Epoch = 142 || Loss: 0.002892132 || Loss val: 0.0028040393
+Epoch = 143 || Loss: 0.0028825658 || Loss val: 0.0027957335
+Epoch = 144 || Loss: 0.00287332 || Loss val: 0.0027878159
+Epoch = 145 || Loss: 0.002864639 || Loss val: 0.0027804624
+Epoch = 146 || Loss: 0.0028560357 || Loss val: 0.0027731643
+Epoch = 147 || Loss: 0.0028472887 || Loss val: 0.0027655365
+Epoch = 148 || Loss: 0.002837725 || Loss val: 0.0027570035
+Epoch = 149 || Loss: 0.0028268462 || Loss val: 0.002746954
+Epoch = 150 || Loss: 0.0028145167 || Loss val: 0.0027349582
+Epoch = 151 || Loss: 0.0028032693 || Loss val: 0.0027247658
+Epoch = 152 || Loss: 0.0027913237 || Loss val: 0.0027139261
+Epoch = 153 || Loss: 0.0027781888 || Loss val: 0.0027011798
+Epoch = 154 || Loss: 0.0027652613 || Loss val: 0.0026892757
+Epoch = 155 || Loss: 0.002753281 || Loss val: 0.0026777633
+Epoch = 156 || Loss: 0.0027414078 || Loss val: 0.0026671134
+Epoch = 157 || Loss: 0.0027294655 || Loss val: 0.002655136
+Epoch = 158 || Loss: 0.0027178468 || Loss val: 0.0026429463
+Epoch = 159 || Loss: 0.002706182 || Loss val: 0.0026328212
+Epoch = 160 || Loss: 0.002694297 || Loss val: 0.0026210062
+Epoch = 161 || Loss: 0.0026837697 || Loss val: 0.0026104015
+Epoch = 162 || Loss: 0.002673821 || Loss val: 0.0026019646
+Epoch = 163 || Loss: 0.0026620459 || Loss val: 0.0025894535
+Epoch = 164 || Loss: 0.0026511892 || Loss val: 0.0025801074
+Epoch = 165 || Loss: 0.0026404918 || Loss val: 0.0025696766
+Epoch = 166 || Loss: 0.002629995 || Loss val: 0.0025602302
+Epoch = 167 || Loss: 0.002619679 || Loss val: 0.0025506646
+Epoch = 168 || Loss: 0.0026090976 || Loss val: 0.002540624
+Epoch = 169 || Loss: 0.0025989695 || Loss val: 0.002531379
+Epoch = 170 || Loss: 0.0025887492 || Loss val: 0.0025219107
+Epoch = 171 || Loss: 0.0025787198 || Loss val: 0.0025127183
+Epoch = 172 || Loss: 0.002568915 || Loss val: 0.0025037115
+Epoch = 173 || Loss: 0.002559246 || Loss val: 0.0024949394
+Epoch = 174 || Loss: 0.002549671 || Loss val: 0.0024860215
+Epoch = 175 || Loss: 0.0025403926 || Loss val: 0.0024772475
+Epoch = 176 || Loss: 0.0025312833 || Loss val: 0.002468779
+Epoch = 177 || Loss: 0.0025222884 || Loss val: 0.0024606027
+Epoch = 178 || Loss: 0.0025133216 || Loss val: 0.0024521868
+Epoch = 179 || Loss: 0.0025045204 || Loss val: 0.0024438165
+Epoch = 180 || Loss: 0.0024958432 || Loss val: 0.0024356442
+Epoch = 181 || Loss: 0.002487413 || Loss val: 0.0024276553
+Epoch = 182 || Loss: 0.0024791032 || Loss val: 0.0024197013
+Epoch = 183 || Loss: 0.0024709925 || Loss val: 0.0024121194
+Epoch = 184 || Loss: 0.0024629824 || Loss val: 0.0024044476
+Epoch = 185 || Loss: 0.002455013 || Loss val: 0.0023971049
+Epoch = 186 || Loss: 0.0024470608 || Loss val: 0.0023898012
+Epoch = 187 || Loss: 0.0024391185 || Loss val: 0.0023823325
+Epoch = 188 || Loss: 0.0024313428 || Loss val: 0.002375094
+Epoch = 189 || Loss: 0.0024235535 || Loss val: 0.00236771
+Epoch = 190 || Loss: 0.002415896 || Loss val: 0.0023604517
+Epoch = 191 || Loss: 0.0024081501 || Loss val: 0.0023531986
+Epoch = 192 || Loss: 0.0024003997 || Loss val: 0.0023458407
+Epoch = 193 || Loss: 0.0023927505 || Loss val: 0.0023387717
+Epoch = 194 || Loss: 0.0023851506 || Loss val: 0.0023313647
+Epoch = 195 || Loss: 0.002377672 || Loss val: 0.0023241725
+Epoch = 196 || Loss: 0.002370304 || Loss val: 0.0023171979
+Epoch = 197 || Loss: 0.0023630958 || Loss val: 0.0023100819
+Epoch = 198 || Loss: 0.0023559623 || Loss val: 0.0023034122
+Epoch = 199 || Loss: 0.0023490724 || Loss val: 0.0022967423
+Epoch = 200 || Loss: 0.0023433636 || Loss val: 0.0022913062
+Epoch = 201 || Loss: 0.0023363964 || Loss val: 0.0022839864
+Epoch = 202 || Loss: 0.0023292205 || Loss val: 0.0022777624
+Epoch = 203 || Loss: 0.002322423 || Loss val: 0.0022716948
+Epoch = 204 || Loss: 0.0023156512 || Loss val: 0.0022651262
+Epoch = 205 || Loss: 0.0023091156 || Loss val: 0.0022593504
+Epoch = 206 || Loss: 0.0023024483 || Loss val: 0.0022528344
+Epoch = 207 || Loss: 0.0022959998 || Loss val: 0.0022467829
+Epoch = 208 || Loss: 0.0022896817 || Loss val: 0.002241037
+Epoch = 209 || Loss: 0.0022832125 || Loss val: 0.0022347753
+Epoch = 210 || Loss: 0.002276844 || Loss val: 0.002228902
+Epoch = 211 || Loss: 0.0022703991 || Loss val: 0.002222715
+Epoch = 212 || Loss: 0.002263974 || Loss val: 0.002216475
+Epoch = 213 || Loss: 0.0022575457 || Loss val: 0.0022106168
+Epoch = 214 || Loss: 0.0022511021 || Loss val: 0.0022045625
+Epoch = 215 || Loss: 0.002244811 || Loss val: 0.0021986132
+Epoch = 216 || Loss: 0.00223867 || Loss val: 0.0021929874
+Epoch = 217 || Loss: 0.0022326221 || Loss val: 0.0021872139
+Epoch = 218 || Loss: 0.0022266516 || Loss val: 0.002181679
+Epoch = 219 || Loss: 0.002220832 || Loss val: 0.0021761851
+Epoch = 220 || Loss: 0.0022150183 || Loss val: 0.0021706156
+Epoch = 221 || Loss: 0.0022092678 || Loss val: 0.0021651709
+Epoch = 222 || Loss: 0.0022036007 || Loss val: 0.0021596488
+Epoch = 223 || Loss: 0.0021978866 || Loss val: 0.0021543128
+Epoch = 224 || Loss: 0.0021923597 || Loss val: 0.0021488748
+Epoch = 225 || Loss: 0.002186754 || Loss val: 0.0021435411
+Epoch = 226 || Loss: 0.0021811824 || Loss val: 0.0021381488
+Epoch = 227 || Loss: 0.002175681 || Loss val: 0.0021329906
+Epoch = 228 || Loss: 0.0021702235 || Loss val: 0.0021276555
+Epoch = 229 || Loss: 0.002164849 || Loss val: 0.002122749
+Epoch = 230 || Loss: 0.002159503 || Loss val: 0.0021175928
+Epoch = 231 || Loss: 0.002154233 || Loss val: 0.0021126445
+Epoch = 232 || Loss: 0.002148951 || Loss val: 0.0021077152
+Epoch = 233 || Loss: 0.0021438298 || Loss val: 0.0021028987
+Epoch = 234 || Loss: 0.0021386798 || Loss val: 0.0020980819
+Epoch = 235 || Loss: 0.0021335548 || Loss val: 0.0020931384
+Epoch = 236 || Loss: 0.0021285056 || Loss val: 0.002088514
+Epoch = 237 || Loss: 0.0021234425 || Loss val: 0.0020835605
+Epoch = 238 || Loss: 0.0021184324 || Loss val: 0.002078876
+Epoch = 239 || Loss: 0.0021134303 || Loss val: 0.002074075
+Epoch = 240 || Loss: 0.002108476 || Loss val: 0.002069497
+Epoch = 241 || Loss: 0.0021036284 || Loss val: 0.0020648013
+Epoch = 242 || Loss: 0.002098788 || Loss val: 0.0020602115
+Epoch = 243 || Loss: 0.0020939917 || Loss val: 0.0020555395
+Epoch = 244 || Loss: 0.0020892029 || Loss val: 0.0020510724
+Epoch = 245 || Loss: 0.0020844461 || Loss val: 0.0020465585
+Epoch = 246 || Loss: 0.0020797863 || Loss val: 0.002042302
+Epoch = 247 || Loss: 0.0020753068 || Loss val: 0.0020381263
+Epoch = 248 || Loss: 0.0020709003 || Loss val: 0.0020339862
+Epoch = 249 || Loss: 0.0020664718 || Loss val: 0.0020297973
+Epoch = 250 || Loss: 0.0020619514 || Loss val: 0.0020257183
+Epoch = 251 || Loss: 0.0020573821 || Loss val: 0.0020215022
+Epoch = 252 || Loss: 0.002052962 || Loss val: 0.0020172053
+Epoch = 253 || Loss: 0.0020486123 || Loss val: 0.0020130016
+Epoch = 254 || Loss: 0.002044465 || Loss val: 0.0020091443
+Epoch = 255 || Loss: 0.0020401934 || Loss val: 0.002005023
+Epoch = 256 || Loss: 0.002035677 || Loss val: 0.002000822
+Epoch = 257 || Loss: 0.0020313014 || Loss val: 0.0019967079
+Epoch = 258 || Loss: 0.0020272587 || Loss val: 0.0019928485
+Epoch = 259 || Loss: 0.0020231192 || Loss val: 0.001988825
+Epoch = 260 || Loss: 0.0020190524 || Loss val: 0.0019848787
+Epoch = 261 || Loss: 0.0020148053 || Loss val: 0.0019810495
+Epoch = 262 || Loss: 0.0020105974 || Loss val: 0.0019770004
+Epoch = 263 || Loss: 0.0020067105 || Loss val: 0.0019731098
+Epoch = 264 || Loss: 0.0020027955 || Loss val: 0.0019695966
+Epoch = 265 || Loss: 0.0019988685 || Loss val: 0.0019659768
+Epoch = 266 || Loss: 0.0019951973 || Loss val: 0.0019623877
+Epoch = 267 || Loss: 0.0019916038 || Loss val: 0.0019589562
+Epoch = 268 || Loss: 0.001987886 || Loss val: 0.0019556228
+Epoch = 269 || Loss: 0.0019840735 || Loss val: 0.0019520281
+Epoch = 270 || Loss: 0.0019802754 || Loss val: 0.0019484096
+Epoch = 271 || Loss: 0.0019763613 || Loss val: 0.001944602
+Epoch = 272 || Loss: 0.0019723421 || Loss val: 0.0019407466
+Epoch = 273 || Loss: 0.0019684334 || Loss val: 0.0019370727
+Epoch = 274 || Loss: 0.0019644503 || Loss val: 0.0019331453
+Epoch = 275 || Loss: 0.0019605313 || Loss val: 0.0019292588
+Epoch = 276 || Loss: 0.0019565946 || Loss val: 0.0019257603
+Epoch = 277 || Loss: 0.0019525411 || Loss val: 0.0019217002
+Epoch = 278 || Loss: 0.0019489158 || Loss val: 0.0019180533
+Epoch = 279 || Loss: 0.0019452323 || Loss val: 0.0019145354
+Epoch = 280 || Loss: 0.001941511 || Loss val: 0.0019111156
+Epoch = 281 || Loss: 0.0019378576 || Loss val: 0.0019076167
+Epoch = 282 || Loss: 0.0019342953 || Loss val: 0.0019042371
+Epoch = 283 || Loss: 0.0019307834 || Loss val: 0.0019007903
+Epoch = 284 || Loss: 0.001927282 || Loss val: 0.0018972578
+Epoch = 285 || Loss: 0.0019236461 || Loss val: 0.0018941133
+Epoch = 286 || Loss: 0.0019201507 || Loss val: 0.0018908221
+Epoch = 287 || Loss: 0.0019165751 || Loss val: 0.0018871916
+Epoch = 288 || Loss: 0.0019132163 || Loss val: 0.0018839695
+Epoch = 289 || Loss: 0.0019097978 || Loss val: 0.001880425
+Epoch = 290 || Loss: 0.0019063667 || Loss val: 0.0018771706
+Epoch = 291 || Loss: 0.0019027995 || Loss val: 0.0018738797
+Epoch = 292 || Loss: 0.0018991426 || Loss val: 0.0018702047
+Epoch = 293 || Loss: 0.0018955475 || Loss val: 0.0018667142
+Epoch = 294 || Loss: 0.0018920148 || Loss val: 0.0018634006
+Epoch = 295 || Loss: 0.0018883297 || Loss val: 0.0018599195
+Epoch = 296 || Loss: 0.0018848066 || Loss val: 0.0018565423
+Epoch = 297 || Loss: 0.0018813264 || Loss val: 0.0018534577
+Epoch = 298 || Loss: 0.0018775512 || Loss val: 0.0018496937
+Epoch = 299 || Loss: 0.0018743987 || Loss val: 0.0018466102
+Epoch = 300 || Loss: 0.0018705362 || Loss val: 0.0018432003
+Epoch = 301 || Loss: 0.001867303 || Loss val: 0.0018398967
+Epoch = 302 || Loss: 0.0018637768 || Loss val: 0.0018367077
+Epoch = 303 || Loss: 0.0018605778 || Loss val: 0.001833754
+Epoch = 304 || Loss: 0.0018572534 || Loss val: 0.0018304876
+Epoch = 305 || Loss: 0.0018538454 || Loss val: 0.0018273583
+Epoch = 306 || Loss: 0.0018507215 || Loss val: 0.0018240961
+Epoch = 307 || Loss: 0.0018476477 || Loss val: 0.0018208951
+Epoch = 308 || Loss: 0.0018445331 || Loss val: 0.0018179663
+Epoch = 309 || Loss: 0.001841392 || Loss val: 0.0018148363
+Epoch = 310 || Loss: 0.0018384345 || Loss val: 0.0018119501
+Epoch = 311 || Loss: 0.0018354439 || Loss val: 0.001809069
+Epoch = 312 || Loss: 0.0018323417 || Loss val: 0.0018058626
+Epoch = 313 || Loss: 0.0018293613 || Loss val: 0.0018031752
+Epoch = 314 || Loss: 0.0018265354 || Loss val: 0.0018004994
+Epoch = 315 || Loss: 0.0018237872 || Loss val: 0.0017979122
+Epoch = 316 || Loss: 0.0018210042 || Loss val: 0.0017954073
+Epoch = 317 || Loss: 0.0018181157 || Loss val: 0.0017927053
+Epoch = 318 || Loss: 0.0018151214 || Loss val: 0.0017897078
+Epoch = 319 || Loss: 0.0018120521 || Loss val: 0.0017869201
+Epoch = 320 || Loss: 0.0018089388 || Loss val: 0.0017836876
+Epoch = 321 || Loss: 0.0018060298 || Loss val: 0.0017806321
+Epoch = 322 || Loss: 0.0018032683 || Loss val: 0.0017779074
+Epoch = 323 || Loss: 0.0018004696 || Loss val: 0.0017750106
+Epoch = 324 || Loss: 0.001797664 || Loss val: 0.0017723227
+Epoch = 325 || Loss: 0.001794781 || Loss val: 0.0017694968
+Epoch = 326 || Loss: 0.0017919303 || Loss val: 0.001766527
+Epoch = 327 || Loss: 0.0017890219 || Loss val: 0.0017636622
+Epoch = 328 || Loss: 0.0017861477 || Loss val: 0.0017605391
+Epoch = 329 || Loss: 0.0017833337 || Loss val: 0.0017578532
+Epoch = 330 || Loss: 0.0017805067 || Loss val: 0.0017548715
+Epoch = 331 || Loss: 0.001777503 || Loss val: 0.0017515749
+Epoch = 332 || Loss: 0.0017746364 || Loss val: 0.0017483962
+Epoch = 333 || Loss: 0.0017716268 || Loss val: 0.0017454159
+Epoch = 334 || Loss: 0.0017688164 || Loss val: 0.0017424485
+Epoch = 335 || Loss: 0.0017661153 || Loss val: 0.0017396646
+Epoch = 336 || Loss: 0.0017633047 || Loss val: 0.0017366711
+Epoch = 337 || Loss: 0.0017605512 || Loss val: 0.0017339685
+Epoch = 338 || Loss: 0.0017578828 || Loss val: 0.0017310363
+Epoch = 339 || Loss: 0.0017551959 || Loss val: 0.0017282186
+Epoch = 340 || Loss: 0.0017526001 || Loss val: 0.0017252795
+Epoch = 341 || Loss: 0.0017496989 || Loss val: 0.0017224834
+Epoch = 342 || Loss: 0.0017468734 || Loss val: 0.0017194113
+Epoch = 343 || Loss: 0.0017438598 || Loss val: 0.0017164551
+Epoch = 344 || Loss: 0.0017410252 || Loss val: 0.001713859
+Epoch = 345 || Loss: 0.0017381075 || Loss val: 0.0017106194
+Epoch = 346 || Loss: 0.0017355164 || Loss val: 0.0017080223
+Epoch = 347 || Loss: 0.0017326038 || Loss val: 0.0017049458
+Epoch = 348 || Loss: 0.00172984 || Loss val: 0.0017024844
+Epoch = 349 || Loss: 0.0017269071 || Loss val: 0.0016992646
+Epoch = 350 || Loss: 0.0017246425 || Loss val: 0.0016969313
+Epoch = 351 || Loss: 0.0017223147 || Loss val: 0.0016944674
+Epoch = 352 || Loss: 0.0017196912 || Loss val: 0.0016918172
+Epoch = 353 || Loss: 0.0017175938 || Loss val: 0.0016894229
+Epoch = 354 || Loss: 0.0017153574 || Loss val: 0.0016867511
+Epoch = 355 || Loss: 0.0017120491 || Loss val: 0.0016830962
+Epoch = 356 || Loss: 0.0017070314 || Loss val: 0.0016781387
+Epoch = 357 || Loss: 0.0017002445 || Loss val: 0.0016715345
+Epoch = 358 || Loss: 0.0016863149 || Loss val: 0.001658406
+Epoch = 359 || Loss: 0.0016784276 || Loss val: 0.0016500561
+Epoch = 360 || Loss: 0.0016975701 || Loss val: 0.001665957
+Epoch = 361 || Loss: 0.0016806731 || Loss val: 0.0016535312
+Epoch = 362 || Loss: 0.001675157 || Loss val: 0.0016479746
+Epoch = 363 || Loss: 0.0016592637 || Loss val: 0.0016325809
+Epoch = 364 || Loss: 0.0016631937 || Loss val: 0.0016351058
+Epoch = 365 || Loss: 0.0016473447 || Loss val: 0.0016211531
+Epoch = 366 || Loss: 0.0016432973 || Loss val: 0.0016175006
+Epoch = 367 || Loss: 0.0016399472 || Loss val: 0.0016139788
+Epoch = 368 || Loss: 0.0016363082 || Loss val: 0.0016103425
+Epoch = 369 || Loss: 0.0016309464 || Loss val: 0.0016045581
+Epoch = 370 || Loss: 0.0016268705 || Loss val: 0.0016003579
+Epoch = 371 || Loss: 0.0016232368 || Loss val: 0.0015965537
+Epoch = 372 || Loss: 0.0016176832 || Loss val: 0.0015914104
+Epoch = 373 || Loss: 0.0016132472 || Loss val: 0.0015869858
+Epoch = 374 || Loss: 0.0016090928 || Loss val: 0.0015831555
+Epoch = 375 || Loss: 0.0016051449 || Loss val: 0.0015790479
+Epoch = 376 || Loss: 0.001601311 || Loss val: 0.0015751711
+Epoch = 377 || Loss: 0.0015969522 || Loss val: 0.001571158
+Epoch = 378 || Loss: 0.0015931125 || Loss val: 0.0015676434
+Epoch = 379 || Loss: 0.0015888751 || Loss val: 0.0015636422
+Epoch = 380 || Loss: 0.0015852107 || Loss val: 0.0015603523
+Epoch = 381 || Loss: 0.0015819505 || Loss val: 0.0015573154
+Epoch = 382 || Loss: 0.001578073 || Loss val: 0.0015536902
+Epoch = 383 || Loss: 0.001574461 || Loss val: 0.0015502716
+Epoch = 384 || Loss: 0.0015715143 || Loss val: 0.0015473352
+Epoch = 385 || Loss: 0.0015677256 || Loss val: 0.0015438584
+Epoch = 386 || Loss: 0.0015650461 || Loss val: 0.0015411085
+Epoch = 387 || Loss: 0.0015614115 || Loss val: 0.001537655
+Epoch = 388 || Loss: 0.0015687853 || Loss val: 0.0015436568
+Epoch = 389 || Loss: 0.0015642494 || Loss val: 0.0015411024
+Epoch = 390 || Loss: 0.0015604605 || Loss val: 0.0015362888
+Epoch = 391 || Loss: 0.0015561573 || Loss val: 0.0015329111
+Epoch = 392 || Loss: 0.0015515834 || Loss val: 0.0015273171
+Epoch = 393 || Loss: 0.0015452895 || Loss val: 0.0015219109
+Epoch = 394 || Loss: 0.0015406794 || Loss val: 0.0015170344
+Epoch = 395 || Loss: 0.0015373506 || Loss val: 0.0015137937
+Epoch = 396 || Loss: 0.0015347038 || Loss val: 0.0015111908
+Epoch = 397 || Loss: 0.0015311558 || Loss val: 0.0015075196
+Epoch = 398 || Loss: 0.0015287 || Loss val: 0.0015051063
+Epoch = 399 || Loss: 0.001525281 || Loss val: 0.0015018085
+Epoch = 400 || Loss: 0.0015222823 || Loss val: 0.0014987516
+Epoch = 401 || Loss: 0.001519004 || Loss val: 0.0014954668
+Epoch = 402 || Loss: 0.0015162067 || Loss val: 0.0014926364
+Epoch = 403 || Loss: 0.001512999 || Loss val: 0.0014894261
+Epoch = 404 || Loss: 0.0015102442 || Loss val: 0.0014869422
+Epoch = 405 || Loss: 0.0015071277 || Loss val: 0.0014837331
+Epoch = 406 || Loss: 0.0015044292 || Loss val: 0.0014811128
+Epoch = 407 || Loss: 0.0015009396 || Loss val: 0.0014778461
+Epoch = 408 || Loss: 0.0014981978 || Loss val: 0.0014751739
+Epoch = 409 || Loss: 0.0014952528 || Loss val: 0.0014721937
+Epoch = 410 || Loss: 0.0014924664 || Loss val: 0.001469405
+Epoch = 411 || Loss: 0.0014890258 || Loss val: 0.0014660098
+Epoch = 412 || Loss: 0.0014859441 || Loss val: 0.0014630938
+Epoch = 413 || Loss: 0.0014826553 || Loss val: 0.0014597073
+Epoch = 414 || Loss: 0.0014796859 || Loss val: 0.0014570646
+Epoch = 415 || Loss: 0.0014769497 || Loss val: 0.0014543901
+Epoch = 416 || Loss: 0.001473653 || Loss val: 0.0014512399
+Epoch = 417 || Loss: 0.0014708145 || Loss val: 0.0014484288
+Epoch = 418 || Loss: 0.0014679077 || Loss val: 0.0014457915
+Epoch = 419 || Loss: 0.0014650434 || Loss val: 0.0014427657
+Epoch = 420 || Loss: 0.0014619261 || Loss val: 0.0014398542
+Epoch = 421 || Loss: 0.0014594655 || Loss val: 0.0014373743
+Epoch = 422 || Loss: 0.0014564676 || Loss val: 0.0014344892
+Epoch = 423 || Loss: 0.0014542658 || Loss val: 0.0014322118
+Epoch = 424 || Loss: 0.0014520388 || Loss val: 0.0014301474
+Epoch = 425 || Loss: 0.001449861 || Loss val: 0.0014277687
+Epoch = 426 || Loss: 0.0014471533 || Loss val: 0.0014254262
+Epoch = 427 || Loss: 0.0014469814 || Loss val: 0.0014250721
+Epoch = 428 || Loss: 0.0014452348 || Loss val: 0.0014231296
+Epoch = 429 || Loss: 0.0014418379 || Loss val: 0.001419937
+Epoch = 430 || Loss: 0.0014369998 || Loss val: 0.0014151131
+Epoch = 431 || Loss: 0.0014345854 || Loss val: 0.001412562
+Epoch = 432 || Loss: 0.0014292201 || Loss val: 0.0014069848
+Epoch = 433 || Loss: 0.0014277407 || Loss val: 0.0014050653
+Epoch = 434 || Loss: 0.0014223786 || Loss val: 0.0013995459
+Epoch = 435 || Loss: 0.0014188925 || Loss val: 0.0013963082
+Epoch = 436 || Loss: 0.0014160534 || Loss val: 0.0013937224
+Epoch = 437 || Loss: 0.0014130141 || Loss val: 0.0013904679
+Epoch = 438 || Loss: 0.001410758 || Loss val: 0.0013880441
+Epoch = 439 || Loss: 0.0014075093 || Loss val: 0.0013845818
+Epoch = 440 || Loss: 0.0014048087 || Loss val: 0.0013817213
+Epoch = 441 || Loss: 0.0014021322 || Loss val: 0.0013793226
+Epoch = 442 || Loss: 0.0014011584 || Loss val: 0.0013777423
+Epoch = 443 || Loss: 0.0013994799 || Loss val: 0.0013756275
+Epoch = 444 || Loss: 0.0013979534 || Loss val: 0.0013736252
+Epoch = 445 || Loss: 0.0013972645 || Loss val: 0.0013726144
+Epoch = 446 || Loss: 0.0013940429 || Loss val: 0.0013691833
+Epoch = 447 || Loss: 0.0013902435 || Loss val: 0.0013657372
+Epoch = 448 || Loss: 0.0013867911 || Loss val: 0.0013626146
+Epoch = 449 || Loss: 0.0013834356 || Loss val: 0.0013594325
+Epoch = 450 || Loss: 0.0013789493 || Loss val: 0.0013551598
+Epoch = 451 || Loss: 0.0013739205 || Loss val: 0.0013509416
+Epoch = 452 || Loss: 0.0013719611 || Loss val: 0.0013490553
+Epoch = 453 || Loss: 0.0013701541 || Loss val: 0.0013478275
+Epoch = 454 || Loss: 0.0013677399 || Loss val: 0.0013453735
+Epoch = 455 || Loss: 0.0013649458 || Loss val: 0.001342991
+Epoch = 456 || Loss: 0.0013631941 || Loss val: 0.0013411281
+Epoch = 457 || Loss: 0.0013609586 || Loss val: 0.0013389526
+Epoch = 458 || Loss: 0.0013584167 || Loss val: 0.0013360912
+Epoch = 459 || Loss: 0.0013538097 || Loss val: 0.0013319311
+Epoch = 460 || Loss: 0.0013506738 || Loss val: 0.0013284569
+Epoch = 461 || Loss: 0.0013454122 || Loss val: 0.0013230698
+Epoch = 462 || Loss: 0.0013430058 || Loss val: 0.001320797
+Epoch = 463 || Loss: 0.0013385916 || Loss val: 0.0013168381
+Epoch = 464 || Loss: 0.0013356988 || Loss val: 0.0013136128
+Epoch = 465 || Loss: 0.0013312439 || Loss val: 0.0013096876
+Epoch = 466 || Loss: 0.0013286642 || Loss val: 0.001307039
+Epoch = 467 || Loss: 0.0013252088 || Loss val: 0.0013033834
+Epoch = 468 || Loss: 0.0013219103 || Loss val: 0.0013001576
+Epoch = 469 || Loss: 0.0013185367 || Loss val: 0.001296884
+Epoch = 470 || Loss: 0.0013162978 || Loss val: 0.0012943462
+Epoch = 471 || Loss: 0.0013130049 || Loss val: 0.0012912482
+Epoch = 472 || Loss: 0.001309488 || Loss val: 0.0012872531
+Epoch = 473 || Loss: 0.0013065013 || Loss val: 0.001284674
+Epoch = 474 || Loss: 0.0013037856 || Loss val: 0.0012815156
+Epoch = 475 || Loss: 0.0013015763 || Loss val: 0.001279079
+Epoch = 476 || Loss: 0.0012990138 || Loss val: 0.001276429
+Epoch = 477 || Loss: 0.0012968334 || Loss val: 0.0012743396
+Epoch = 478 || Loss: 0.0012914491 || Loss val: 0.0012693406
+Epoch = 479 || Loss: 0.0012884692 || Loss val: 0.0012666157
+Epoch = 480 || Loss: 0.0012862942 || Loss val: 0.0012643732
+Epoch = 481 || Loss: 0.0012856162 || Loss val: 0.0012630507
+Epoch = 482 || Loss: 0.0012840836 || Loss val: 0.001261526
+Epoch = 483 || Loss: 0.0012813088 || Loss val: 0.0012596789
+Epoch = 484 || Loss: 0.0013045486 || Loss val: 0.0012808377
+Epoch = 485 || Loss: 0.0013297258 || Loss val: 0.0013101328
+Epoch = 486 || Loss: 0.0013592261 || Loss val: 0.0013342537
+Epoch = 487 || Loss: 0.0013369158 || Loss val: 0.0013183051
+Epoch = 488 || Loss: 0.0012988164 || Loss val: 0.0012764885
+Epoch = 489 || Loss: 0.0012697584 || Loss val: 0.0012494541
+Epoch = 490 || Loss: 0.0012614371 || Loss val: 0.0012411203
+Epoch = 491 || Loss: 0.001261738 || Loss val: 0.0012408217
+Epoch = 492 || Loss: 0.0012618396 || Loss val: 0.0012420175
+Epoch = 493 || Loss: 0.0012513667 || Loss val: 0.0012296526
+Epoch = 494 || Loss: 0.0012470722 || Loss val: 0.0012260906
+Epoch = 495 || Loss: 0.0012439168 || Loss val: 0.0012220519
+Epoch = 496 || Loss: 0.001243592 || Loss val: 0.0012211744
+Epoch = 497 || Loss: 0.0012454743 || Loss val: 0.0012231399
+Epoch = 498 || Loss: 0.0012413098 || Loss val: 0.0012190662
+Epoch = 499 || Loss: 0.0012368814 || Loss val: 0.0012152198
+Epoch = 500 || Loss: 0.0012316202 || Loss val: 0.0012100836
+Epoch = 501 || Loss: 0.0012278608 || Loss val: 0.0012069579
+Epoch = 502 || Loss: 0.0012223583 || Loss val: 0.0012020473
+Epoch = 503 || Loss: 0.0012170525 || Loss val: 0.0011969181
+Epoch = 504 || Loss: 0.0012158878 || Loss val: 0.0011957407
+Epoch = 505 || Loss: 0.0012148239 || Loss val: 0.0011947242
+Epoch = 506 || Loss: 0.001212676 || Loss val: 0.0011922956
+Epoch = 507 || Loss: 0.0012264415 || Loss val: 0.0012066101
+Epoch = 508 || Loss: 0.0012273554 || Loss val: 0.0012057085
+Epoch = 509 || Loss: 0.0012215438 || Loss val: 0.0012020973
+Epoch = 510 || Loss: 0.0012086254 || Loss val: 0.001188048
+Epoch = 511 || Loss: 0.0011996484 || Loss val: 0.0011804025
+Epoch = 512 || Loss: 0.0011971208 || Loss val: 0.0011775235
+Epoch = 513 || Loss: 0.001195939 || Loss val: 0.0011765829
+Epoch = 514 || Loss: 0.0011911294 || Loss val: 0.0011719345
+Epoch = 515 || Loss: 0.0011855453 || Loss val: 0.0011664779
+Epoch = 516 || Loss: 0.0012200213 || Loss val: 0.0011992401
+Epoch = 517 || Loss: 0.0012600935 || Loss val: 0.001239976
+Epoch = 518 || Loss: 0.0012917097 || Loss val: 0.0012733935
+Epoch = 519 || Loss: 0.0012947967 || Loss val: 0.0012765415
+Epoch = 520 || Loss: 0.0012667736 || Loss val: 0.001248796
+Epoch = 521 || Loss: 0.001249411 || Loss val: 0.001230891
+Epoch = 522 || Loss: 0.0012260049 || Loss val: 0.001207781
+Epoch = 523 || Loss: 0.001214636 || Loss val: 0.0011965085
+Epoch = 524 || Loss: 0.0012092888 || Loss val: 0.001190414
+Epoch = 525 || Loss: 0.0012091119 || Loss val: 0.0011898229
+Epoch = 526 || Loss: 0.0012013661 || Loss val: 0.0011814283
+Epoch = 527 || Loss: 0.0011967121 || Loss val: 0.0011777038
+Epoch = 528 || Loss: 0.0011878659 || Loss val: 0.0011679783
+Epoch = 529 || Loss: 0.0011818145 || Loss val: 0.0011619214
+Epoch = 530 || Loss: 0.0011773587 || Loss val: 0.0011577634
+Epoch = 531 || Loss: 0.0011726647 || Loss val: 0.0011531316
+Epoch = 532 || Loss: 0.0011670976 || Loss val: 0.0011468556
+Epoch = 533 || Loss: 0.0011610893 || Loss val: 0.0011407222
+Epoch = 534 || Loss: 0.0011563103 || Loss val: 0.0011360031
+Epoch = 535 || Loss: 0.001151737 || Loss val: 0.0011313185
+Epoch = 536 || Loss: 0.0011637764 || Loss val: 0.0011424479
+Epoch = 537 || Loss: 0.0011641645 || Loss val: 0.0011423057
+Epoch = 538 || Loss: 0.0011608399 || Loss val: 0.0011380973
+Epoch = 539 || Loss: 0.001146224 || Loss val: 0.0011232716
+Epoch = 540 || Loss: 0.0011425448 || Loss val: 0.001120073
+Epoch = 541 || Loss: 0.0011354368 || Loss val: 0.001113573
+Epoch = 542 || Loss: 0.0011368478 || Loss val: 0.001113183
+Epoch = 543 || Loss: 0.0011678793 || Loss val: 0.0011449542
+Epoch = 544 || Loss: 0.0011626582 || Loss val: 0.0011369367
+Epoch = 545 || Loss: 0.0011495037 || Loss val: 0.0011290092
+Epoch = 546 || Loss: 0.0013026568 || Loss val: 0.0012782307
+┌ Error: CUDA.jl could not find an appropriate CUDA runtime to use.
+│ 
+│ This can have several reasons:
+│ * you are using an unsupported platform: this version of CUDA.jl
+│   only supports Linux (x86_64, aarch64, ppc64le) and Windows (x86_64),
+│   while your platform was identified as x86_64-linux-gnu-libgfortran5-cxx11-cuda+none-julia_version+1.9.0;
+│ * you precompiled CUDA.jl in an environment where the CUDA driver
+│   was not available (i.e., a container, or an HPC login node).
+│   in that case, you need to specify which CUDA version to use
+│   by calling `CUDA.set_runtime_version!`;
+│ * you requested use of a local CUDA toolkit, but not all
+│   required components were discovered. try running with
+│   JULIA_DEBUG=all in your environment for more details.
+│ 
+│ For more details, refer to the CUDA.jl documentation at
+│ https://cuda.juliagpu.org/stable/installation/overview/
+└ @ CUDA ~/.julia/packages/CUDA/s5N6v/src/initialization.jl:82
+┌ Warning: dt(-1.1269003e-7) <= dtmin(1.1920929e-7) at t=0.0040041166, and step error estimate = 1.0568259e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.1501834e-7) <= dtmin(1.1920929e-7) at t=0.004004119, and step error estimate = 1.3365032e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-5.2619725e-8) <= dtmin(1.1920929e-7) at t=0.0040040566, and step error estimate = 1.7701616e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-9.639189e-8) <= dtmin(1.1920929e-7) at t=0.0040041003, and step error estimate = 1.17000525e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-9.080395e-8) <= dtmin(1.1920929e-7) at t=0.0040040947, and step error estimate = 1.0698166e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-6.845221e-8) <= dtmin(1.1920929e-7) at t=0.0040040724, and step error estimate = 1.510589e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.1641532e-7) <= dtmin(1.1920929e-7) at t=0.008008124, and step error estimate = 0.0056658173. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-6.100163e-8) <= dtmin(1.1920929e-7) at t=0.006006067, and step error estimate = 1.819882e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.0430813e-7) <= dtmin(1.1920929e-7) at t=0.008008112, and step error estimate = 8.765298e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.02911144e-7) <= dtmin(1.1920929e-7) at t=0.006006109, and step error estimate = 0.0010676554. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.0011718e-7) <= dtmin(1.1920929e-7) at t=0.004004104, and step error estimate = 1.7735061e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.1175871e-7) <= dtmin(1.1920929e-7) at t=0.0040041157, and step error estimate = 2.0724896e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-3.4691766e-8) <= dtmin(1.1920929e-7) at t=0.0020020367, and step error estimate = 3.6300708e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-5.820766e-8) <= dtmin(1.1920929e-7) at t=0.004004062, and step error estimate = 1.34796e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-6.07688e-8) <= dtmin(1.1920929e-7) at t=6.07688e-8, and step error estimate = 5.2994277e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-8.195639e-8) <= dtmin(1.1920929e-7) at t=0.004004086, and step error estimate = 1.6735388e-8. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-2.8871e-8) <= dtmin(1.1920929e-7) at t=2.8871e-8, and step error estimate = 2.8668694e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-6.961636e-8) <= dtmin(1.1920929e-7) at t=0.0020020716, and step error estimate = 0.00049525034. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-9.313226e-8) <= dtmin(1.1920929e-7) at t=0.0060060993, and step error estimate = 2.9798097e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.17346644e-7) <= dtmin(1.1920929e-7) at t=0.0060061235, and step error estimate = 2.8283948e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.1269003e-7) <= dtmin(1.1920929e-7) at t=0.006006119, and step error estimate = 2.8926283e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-9.359792e-8) <= dtmin(1.1920929e-7) at t=0.0060060997, and step error estimate = 1.29106065e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.1269003e-7) <= dtmin(1.1920929e-7) at t=0.006006119, and step error estimate = 5.2584342e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.0617077e-7) <= dtmin(1.1920929e-7) at t=0.0060061123, and step error estimate = 5.3217955e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.13621354e-7) <= dtmin(1.1920929e-7) at t=0.00600612, and step error estimate = 5.360599e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-9.5926225e-8) <= dtmin(1.1920929e-7) at t=0.006006102, and step error estimate = 5.423191e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.09896064e-7) <= dtmin(1.1920929e-7) at t=0.006006116, and step error estimate = 1.558313e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-9.406358e-8) <= dtmin(1.1920929e-7) at t=0.012012106, and step error estimate = 9.059139e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.1222437e-7) <= dtmin(1.1920929e-7) at t=0.0060061184, and step error estimate = 4.7409896e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.07102096e-7) <= dtmin(1.1920929e-7) at t=0.0060061133, and step error estimate = 4.7273046e-5. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-9.49949e-8) <= dtmin(1.1920929e-7) at t=0.006006101, and step error estimate = 6.1181613e-6. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-5.6345016e-8) <= dtmin(1.1920929e-7) at t=0.0040040603, and step error estimate = 7.998239e-9. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+┌ Warning: dt(-1.0803342e-7) <= dtmin(1.1920929e-7) at t=1.0803342e-7, and step error estimate = 0.00029761347. Aborting. There is either an error in your model specification or the true solution is unstable.
+└ @ SciMLBase ~/.julia/packages/SciMLBase/8XHkk/src/integrator_interface.jl:599
+Epoch = 547 || Loss: 0.0029918936 || Loss val: 0.0029158974
+Epoch = 548 || Loss: 0.0038326995 || Loss val: 0.0038109357
+Epoch = 549 || Loss: 0.0018903487 || Loss val: 0.0018525557
+Epoch = 550 || Loss: 0.0015957896 || Loss val: 0.0015671821
+Epoch = 551 || Loss: 0.0018700646 || Loss val: 0.0018648037
+Epoch = 552 || Loss: 0.0015111967 || Loss val: 0.0014830504
+Epoch = 553 || Loss: 0.0015719634 || Loss val: 0.0015421206
+Epoch = 554 || Loss: 0.001528384 || Loss val: 0.0015137543
+Epoch = 555 || Loss: 0.0013745015 || Loss val: 0.0013575732
+Epoch = 556 || Loss: 0.0013930093 || Loss val: 0.0013718095
+Epoch = 557 || Loss: 0.0013575922 || Loss val: 0.0013462112
+Epoch = 558 || Loss: 0.0013182745 || Loss val: 0.0013069245
+Epoch = 559 || Loss: 0.0013052924 || Loss val: 0.0012925492
+Epoch = 560 || Loss: 0.0013019651 || Loss val: 0.0012903496
+Epoch = 561 || Loss: 0.0012888878 || Loss val: 0.001276315
+Epoch = 562 || Loss: 0.0012782057 || Loss val: 0.0012655051
+Epoch = 563 || Loss: 0.0012676074 || Loss val: 0.0012560633
+Epoch = 564 || Loss: 0.0012576386 || Loss val: 0.0012462
+Epoch = 565 || Loss: 0.0012474832 || Loss val: 0.0012350687
+Epoch = 566 || Loss: 0.0012399545 || Loss val: 0.0012275286
+Epoch = 567 || Loss: 0.0012341334 || Loss val: 0.001221242
+Epoch = 568 || Loss: 0.0012278181 || Loss val: 0.001214739
+Epoch = 569 || Loss: 0.001222002 || Loss val: 0.001208954
+Epoch = 570 || Loss: 0.001214997 || Loss val: 0.0012013856
+Epoch = 571 || Loss: 0.0012088708 || Loss val: 0.0011948219
+Epoch = 572 || Loss: 0.0012036943 || Loss val: 0.0011891302
+Epoch = 573 || Loss: 0.0011980807 || Loss val: 0.0011829204
+Epoch = 574 || Loss: 0.001194915 || Loss val: 0.0011796565
+Epoch = 575 || Loss: 0.0011925421 || Loss val: 0.0011779142
+Epoch = 576 || Loss: 0.0011893042 || Loss val: 0.0011745546
+Epoch = 577 || Loss: 0.0011842211 || Loss val: 0.001169037
+Epoch = 578 || Loss: 0.0011792947 || Loss val: 0.0011637699
+Epoch = 579 || Loss: 0.001174179 || Loss val: 0.0011580741
+Epoch = 580 || Loss: 0.0011682423 || Loss val: 0.0011515878
+Epoch = 581 || Loss: 0.0011621318 || Loss val: 0.0011456929
+Epoch = 582 || Loss: 0.0011564802 || Loss val: 0.0011396258
+Epoch = 583 || Loss: 0.0011507333 || Loss val: 0.0011336216
+Epoch = 584 || Loss: 0.0011451009 || Loss val: 0.0011274291
+Epoch = 585 || Loss: 0.001139929 || Loss val: 0.0011222556
+Epoch = 586 || Loss: 0.0011364724 || Loss val: 0.0011192535
+Epoch = 587 || Loss: 0.0011316353 || Loss val: 0.0011145007
+Epoch = 588 || Loss: 0.0011253573 || Loss val: 0.0011083012
+Epoch = 589 || Loss: 0.0011202814 || Loss val: 0.0011027365
+Epoch = 590 || Loss: 0.0011152662 || Loss val: 0.0010976664
+Epoch = 591 || Loss: 0.00111025 || Loss val: 0.0010925337
+Epoch = 592 || Loss: 0.0011052968 || Loss val: 0.0010876629
+Epoch = 593 || Loss: 0.001099747 || Loss val: 0.0010817626
+Epoch = 594 || Loss: 0.0010942697 || Loss val: 0.001076302
+Epoch = 595 || Loss: 0.0010893656 || Loss val: 0.0010718392
+Epoch = 596 || Loss: 0.0010850383 || Loss val: 0.0010672436
+Epoch = 597 || Loss: 0.0010810173 || Loss val: 0.0010632258
+Epoch = 598 || Loss: 0.0010771977 || Loss val: 0.0010593326
+Epoch = 599 || Loss: 0.001070532 || Loss val: 0.0010528234
+Epoch = 600 || Loss: 0.0010656477 || Loss val: 0.0010485972
+Epoch = 601 || Loss: 0.0010603333 || Loss val: 0.0010429827
+Epoch = 602 || Loss: 0.0010551661 || Loss val: 0.0010369681
+Epoch = 603 || Loss: 0.001050724 || Loss val: 0.0010325994
+Epoch = 604 || Loss: 0.0010458225 || Loss val: 0.0010268831
+Epoch = 605 || Loss: 0.0010397863 || Loss val: 0.0010208589
+Epoch = 606 || Loss: 0.001032584 || Loss val: 0.001013612
+Epoch = 607 || Loss: 0.0010236525 || Loss val: 0.0010046907
+Epoch = 608 || Loss: 0.0010203063 || Loss val: 0.00100103
+Epoch = 609 || Loss: 0.0010149532 || Loss val: 0.0009961873
+Epoch = 610 || Loss: 0.0010115174 || Loss val: 0.0009919365
+Epoch = 611 || Loss: 0.0010069831 || Loss val: 0.0009873137
+Epoch = 612 || Loss: 0.0010011087 || Loss val: 0.000982191
+Epoch = 613 || Loss: 0.0009976625 || Loss val: 0.0009789857
+Epoch = 614 || Loss: 0.0009942561 || Loss val: 0.0009745039
+Epoch = 615 || Loss: 0.0009919336 || Loss val: 0.00097206474
+Epoch = 616 || Loss: 0.0009895279 || Loss val: 0.0009707949
+Epoch = 617 || Loss: 0.0009859793 || Loss val: 0.0009671308
+Epoch = 618 || Loss: 0.0009804164 || Loss val: 0.00096156326
+Epoch = 619 || Loss: 0.0009789334 || Loss val: 0.0009598952
+Epoch = 620 || Loss: 0.0009757932 || Loss val: 0.0009567757
+Epoch = 621 || Loss: 0.000973409 || Loss val: 0.0009545177
+Epoch = 622 || Loss: 0.0009709321 || Loss val: 0.00095228385
+Epoch = 623 || Loss: 0.0009689527 || Loss val: 0.00095038814
+Epoch = 624 || Loss: 0.0009733594 || Loss val: 0.00095519284
+Epoch = 625 || Loss: 0.00096719636 || Loss val: 0.00094838295
+Epoch = 626 || Loss: 0.00096146856 || Loss val: 0.00094277237
+Epoch = 627 || Loss: 0.00095858634 || Loss val: 0.0009392233
+Epoch = 628 || Loss: 0.0009570064 || Loss val: 0.00093844323
+Epoch = 629 || Loss: 0.00095714384 || Loss val: 0.0009392631
+Epoch = 630 || Loss: 0.0009550822 || Loss val: 0.0009377771
+Epoch = 631 || Loss: 0.0009517724 || Loss val: 0.00093343866
+Epoch = 632 || Loss: 0.0009546127 || Loss val: 0.0009365308
+Epoch = 633 || Loss: 0.0009631618 || Loss val: 0.0009451809
+Epoch = 634 || Loss: 0.0009507904 || Loss val: 0.0009317188
+Epoch = 635 || Loss: 0.0009485409 || Loss val: 0.00093018304
+Epoch = 636 || Loss: 0.0009575067 || Loss val: 0.0009392862
+Epoch = 637 || Loss: 0.0009748027 || Loss val: 0.00095724635
+Epoch = 638 || Loss: 0.0010224996 || Loss val: 0.0010106822
+Epoch = 639 || Loss: 0.0009506215 || Loss val: 0.0009340483
+Epoch = 640 || Loss: 0.0009411046 || Loss val: 0.00092371675
+Epoch = 641 || Loss: 0.00098727 || Loss val: 0.0009679568
+Epoch = 642 || Loss: 0.0010245373 || Loss val: 0.0010055471
+Epoch = 643 || Loss: 0.0012699674 || Loss val: 0.0012537267
+Epoch = 644 || Loss: 0.0015998208 || Loss val: 0.0015809928
+Epoch = 645 || Loss: 0.0012779752 || Loss val: 0.0012594132
+Epoch = 646 || Loss: 0.0010203053 || Loss val: 0.0010036558
+Epoch = 647 || Loss: 0.0010639973 || Loss val: 0.0010466877
+Epoch = 648 || Loss: 0.0011037458 || Loss val: 0.001082516
+Epoch = 649 || Loss: 0.0010201754 || Loss val: 0.0010053198
+Epoch = 650 || Loss: 0.0009726431 || Loss val: 0.0009567256
+Epoch = 651 || Loss: 0.0010131558 || Loss val: 0.0009977405
+Epoch = 652 || Loss: 0.0010661345 || Loss val: 0.0010514929
+Epoch = 653 || Loss: 0.0013305368 || Loss val: 0.0013168862
+Epoch = 654 || Loss: 0.0010527128 || Loss val: 0.0010386482
+Epoch = 655 || Loss: 0.0016550991 || Loss val: 0.001651377
+Epoch = 656 || Loss: 0.0013262272 || Loss val: 0.001298577
+Epoch = 657 || Loss: 0.000982235 || Loss val: 0.00096674566
+Epoch = 658 || Loss: 0.0011403791 || Loss val: 0.0011260096
+Epoch = 659 || Loss: 0.0010933232 || Loss val: 0.0010738644
+Epoch = 660 || Loss: 0.0009910763 || Loss val: 0.0009742172
+Epoch = 661 || Loss: 0.0010147683 || Loss val: 0.0009991381
+Epoch = 662 || Loss: 0.0009910718 || Loss val: 0.000972888
+Epoch = 663 || Loss: 0.00093945547 || Loss val: 0.0009237601
+Epoch = 664 || Loss: 0.0009480058 || Loss val: 0.00093294797
+Epoch = 665 || Loss: 0.0009331852 || Loss val: 0.0009158766
+Epoch = 666 || Loss: 0.00090375333 || Loss val: 0.0008873546
+Epoch = 667 || Loss: 0.0009020017 || Loss val: 0.00088536035
+Epoch = 668 || Loss: 0.0008960609 || Loss val: 0.00087876595
+Epoch = 669 || Loss: 0.0008877169 || Loss val: 0.00087034004
+Epoch = 670 || Loss: 0.0008851171 || Loss val: 0.0008677961
+Epoch = 671 || Loss: 0.0008828155 || Loss val: 0.000865929
+Epoch = 672 || Loss: 0.00088007696 || Loss val: 0.000862139
+Epoch = 673 || Loss: 0.00087698956 || Loss val: 0.00085849635
+Epoch = 674 || Loss: 0.0008733418 || Loss val: 0.000854967
+Epoch = 675 || Loss: 0.00088133954 || Loss val: 0.0008632434
+Epoch = 676 || Loss: 0.00090977724 || Loss val: 0.0008926223
+Epoch = 677 || Loss: 0.0009230459 || Loss val: 0.00090606476
+Epoch = 678 || Loss: 0.0009038181 || Loss val: 0.00088798226
+Epoch = 679 || Loss: 0.0009074692 || Loss val: 0.0008910612
+Epoch = 680 || Loss: 0.0009079814 || Loss val: 0.0008902086
+Epoch = 681 || Loss: 0.0008889649 || Loss val: 0.0008717589
+Epoch = 682 || Loss: 0.00087798515 || Loss val: 0.00086152175
+Epoch = 683 || Loss: 0.0008714474 || Loss val: 0.0008564109
+Epoch = 684 || Loss: 0.0008647337 || Loss val: 0.00084931176
+Epoch = 685 || Loss: 0.00085831777 || Loss val: 0.000842161
+Epoch = 686 || Loss: 0.00085764116 || Loss val: 0.00084065914
+Epoch = 687 || Loss: 0.0008511819 || Loss val: 0.0008339183
+Epoch = 688 || Loss: 0.0008456639 || Loss val: 0.0008284498
+Epoch = 689 || Loss: 0.0008436772 || Loss val: 0.00082635833
+Epoch = 690 || Loss: 0.0008599722 || Loss val: 0.00084308634
+Epoch = 691 || Loss: 0.0009040319 || Loss val: 0.00088721333
+Epoch = 692 || Loss: 0.0009127236 || Loss val: 0.0008948901
+Epoch = 693 || Loss: 0.00094680913 || Loss val: 0.00092734466
+Epoch = 694 || Loss: 0.00089175673 || Loss val: 0.00087324943
+Epoch = 695 || Loss: 0.00084852765 || Loss val: 0.00083051086
+Epoch = 696 || Loss: 0.0008462838 || Loss val: 0.00082797674
+Epoch = 697 || Loss: 0.0008434206 || Loss val: 0.00082548155
+Epoch = 698 || Loss: 0.00083757885 || Loss val: 0.00082005135
+Epoch = 699 || Loss: 0.0008297212 || Loss val: 0.00081258174
+Epoch = 700 || Loss: 0.00082491833 || Loss val: 0.0008081433
+No se encontraron loss previos de la red neuronal

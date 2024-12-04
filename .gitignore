@@ -1,0 +1,83 @@
+1-DataGen/Data/
+3-NNIdentificaHahn/G_8.73e-7_TE_1_AE/Losses/
+3-NNIdentificaHahn/G_8.73e-7_TE_1_AE/Params/
+3-NNIdentificaHahn/G_8.73e-7_TE_1_AE/Predictions/
+4-PANODE/Losses/01_losses.csv
+4-PANODE/Losses/02_losses.csv
+4-PANODE/Losses/03_losses.csv
+4-PANODE/Losses/05_losses.csv
+4-PANODE/Losses/07_losses.csv
+4-PANODE/Losses/09_losses.csv
+4-PANODE/Losses/011_losses.csv
+4-PANODE/Losses/013_losses.csv
+4-PANODE/Losses/015_losses.csv
+4-PANODE/Losses/017_losses.csv
+4-PANODE/Losses/018_losses.csv
+4-PANODE/Losses/019_losses.csv
+4-PANODE/Losses/020_losses.csv
+4-PANODE/Losses/021_losses.csv
+4-PANODE/Losses/022_losses.csv
+4-PANODE/Losses/023_losses.csv
+4-PANODE/Losses/025_losses.csv
+4-PANODE/Losses/026_losses.csv
+4-PANODE/Losses/027_losses.csv
+4-PANODE/Losses/028_losses.csv
+4-PANODE/Losses/029_losses.csv
+4-PANODE/Losses/031_losses.csv
+4-PANODE/Losses/032_losses.csv
+4-PANODE/Losses/033_losses.csv
+4-PANODE/Losses/034_losses.csv
+4-PANODE/Losses/035_losses.csv
+4-PANODE/Parameters/01_Parameters.csv
+4-PANODE/Parameters/02_Parameters.csv
+4-PANODE/Parameters/03_Parameters.csv
+4-PANODE/Parameters/05_Parameters.csv
+4-PANODE/Parameters/07_Parameters.csv
+4-PANODE/Parameters/09_Parameters.csv
+4-PANODE/Parameters/011_Parameters.csv
+4-PANODE/Parameters/013_Parameters.csv
+4-PANODE/Parameters/015_Parameters.csv
+4-PANODE/Parameters/017_Parameters.csv
+4-PANODE/Parameters/018_Parameters.csv
+4-PANODE/Parameters/019_Parameters.csv
+4-PANODE/Parameters/020_Parameters.csv
+4-PANODE/Parameters/021_Parameters.csv
+4-PANODE/Parameters/022_Parameters.csv
+4-PANODE/Parameters/023_Parameters.csv
+4-PANODE/Parameters/025_Parameters.csv
+4-PANODE/Parameters/026_Parameters.csv
+4-PANODE/Parameters/027_Parameters.csv
+4-PANODE/Parameters/028_Parameters.csv
+4-PANODE/Parameters/029_Parameters.csv
+4-PANODE/Parameters/031_Parameters.csv
+4-PANODE/Parameters/032_Parameters.csv
+4-PANODE/Parameters/033_Parameters.csv
+4-PANODE/Parameters/034_Parameters.csv
+4-PANODE/Parameters/035_Parameters.csv
+4-PANODE/Results/01_\[9, 32, 64, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/02_\[9, 64, 128, 2]_swish_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/03_\[9, 32, 32, 16, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/05_\[9, 16, 32, 64, 16, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/07_\[12, 32, 64, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/09_\[12, 32, 32, 16, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/011_\[12, 16, 32, 64, 16, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/013_\[14, 32, 64, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/015_\[14, 32, 32, 16, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/017_\[14, 16, 32, 64, 16, 2]_relu_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/018_\[14, 32, 64, 32, 16, 2]_swish_AdamW_10_0.0_0.01_0.0.csv
+4-PANODE/Results/019_\[9, 32, 64, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/020_\[9, 64, 128, 2]_swish_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/021_\[9, 32, 32, 16, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/022_\[9, 128, 64, 16, 2]_swish_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/023_\[9, 16, 32, 64, 16, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/025_\[12, 32, 64, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/026_\[12, 64, 128, 2]_swish_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/027_\[12, 32, 32, 16, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/028_\[12, 128, 64, 16, 2]_swish_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/029_\[12, 16, 32, 64, 16, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/031_\[14, 32, 64, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/032_\[14, 64, 128, 2]_swish_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/033_\[14, 32, 32, 16, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/034_\[14, 128, 64, 16, 2]_swish_AdamW_15_0.0_0.01_0.0.csv
+4-PANODE/Results/035_\[14, 16, 32, 64, 16, 2]_relu_AdamW_15_0.0_0.01_0.0.csv
+5-End2EndModel/Hahn/EntrenamientoContinuoFrostAutoencoder.jl
